@@ -1,1 +1,1 @@
-"# Samson-S"  
+# Samson-S
